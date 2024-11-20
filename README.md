@@ -48,17 +48,10 @@ The project uses datasets of plant images that include healthy and diseased samp
 
 If you're working with custom datasets, ensure the following structure:
 
-bash
-Copy code
-data/
-├── train/
-│   ├── healthy/
-│   ├── diseased/
-├── test/
-│   ├── healthy/
-│   ├── diseased/
+
 How to Contribute 🤝
 Fork the repository.
+
 Create a feature branch:
 bash
 Copy code
